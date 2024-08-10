@@ -12,7 +12,7 @@ int peack();
 
 int main()
 {
-    printf("Hello world!\n");
+    printf("Helpo world!\n");
     return 0;
 }
 struct node* creatnode(int data)
